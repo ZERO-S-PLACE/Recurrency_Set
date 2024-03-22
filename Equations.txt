@@ -1,0 +1,8 @@
+Mandelbrot_Set#0#z*z+p#
+Julia0#p#z^3+0.33+0.5i#
+JuliaShouldWork#p#z^2-0.72+0.19i#
+Julia2#p#z^2-0.10+0.65i#
+HeadShape#p#z^3-0.10+0.65i-z^2+3*z^4+z^8+p#
+AntShape#p#z^8+z^7-z^6/3-p-z^4+z+2*z^2#
+Dust#p^3-p#0.01-z^2-0.10+0.65i+p*z^12#
+
